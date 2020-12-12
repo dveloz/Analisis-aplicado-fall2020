@@ -1,0 +1,15 @@
+
+#+OPTIONS: toc:nil 
+#+TITLE: Examen Final Análisis Aplicado
+#+OPTIONS: author:nil 
+#+LANGUAGE: es
+
+* Gradiente Conjugado
+ 1. Demuestre que si los vectores no nulos \(p_1, p_2,...,p_l\)  satisfacen que :
+    $$p_i^TAp_j=0, \forall i\neq j, $$ y A es simétrica y positiva definida, entonces los vectores son linealmente independientes.
+ 2. Dado este resultado, ¿Por qué el gradiente conjugado converge en a lo más $n$ iteraciones?.
+* Quasi-Newton
+1. Muestre que la segunda condición fuerte de Wolfe implica la condición de curvatura. $$ s_k^Ty_k>0. $$
+2. Verifique que \(B_{k+1}\) y \(H_{k+1}\) son inversas una de la otra. 
+
+   
